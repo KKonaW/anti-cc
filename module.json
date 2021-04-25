@@ -1,0 +1,8 @@
+{
+    "disableAutoUpdate": true,
+    "name": "anti-cc",
+    "version": "1.0",
+    "author": "Bussan https://github.com/busann",
+    "description": "TERA Proxy module to prevent you from getting knocked down or knocked up in PVP or PVE",
+    "servers": ["https://raw.githubusercontent.com/KKonaW/anti-cc/master/"]
+}

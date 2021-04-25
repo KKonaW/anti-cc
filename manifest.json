@@ -1,0 +1,12 @@
+{
+    "files": {
+        "README.md": "6266dc7e971687e1ff9985d76d9fdf5cd98e60ebddde565af238dbc55d869c8d",
+        "index.js": "3aaa9ff5db5c6ba45abecd28e53b3173424427d2b0e637bc307dbeed78374727",
+        "module.json": "c24fe4ba5180345d734b24217314878cfd44fcb064ff872f6b7f622f2dd5e887"
+    },
+    "defs": {
+        "C_PLAYER_LOCATION": 5,
+        "S_EACH_SKILL_RESULT": 14,
+        "S_LOGIN": 14
+    }
+}
